@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Inventory Lock</string>
+    <string name="box_image_desc">box image</string>
+    <string name="opened_box_info">Прикрепите фото того, что взяли из ящика, и нажмите закрыть.</string>
+    <string name="attach">ПРИКРЕПИТЬ</string>
+    <string name="close">ЗАКРЫТЬ</string>
+    <string name="user_name_tv">Имя пользователя:</string>
+    <string name="e_mail_tv">E-mail:</string>
+    <string name="login_btn">Войти</string>
+    <string name="confirmation_tv">Подтверждение</string>
+    <string name="confirmation_desc_tv">На ваш E-mail отправлено письмо с кодом для подтвержджения входа.</string>
+    <string name="code_from_letter_tv">Код из письма:</string>
+    <string name="send_btn">ОТПРАВИТЬ</string>
+    <string name="main_activity_tv">Выберите ящик</string>
+    <string name="loginTV">Вход</string>
+</resources>
